@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 周杰伦
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 周杰伦
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jay Lun
+last_name: Zhou
 
 # Status emoji
 status:
