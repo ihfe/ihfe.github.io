@@ -45,37 +45,18 @@ interests:
   - Natural Language Process
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: MSc Computing Science
     institution: University of Glasgow
     date_start: 2024-09-01
     date_end: 2025-09-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MSc Computing Science
-    institution: UoG
-    date_start: 2024-09-01
-    date_end: 2025-09-01
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Focusing on AI and machine learning.
   - area: BSc Artificial Intelligence
-    institution: NCWU
+    institution: North China University of Water Resources and Electric Power (NCWU)
     date_start: 2020-09-01
     date_end: 2024-07-01
     summary: |
-      GPA: 3.8/5.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Undergraduate studies in artificial intelligence.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -175,4 +156,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhe Yuan is a Computing Science Master's candidate at the University of Glasgow, graduating this year. With a focus on AI, he has worked on large language model distillation and quantization, and contributed to data quality work at Outlier AI. He codes in Python and C++. He's curious about the space where research meets real-world application—and is building toward a career in AI product management.
